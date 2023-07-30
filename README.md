@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @enid5richard904
+- 👀 I’m interested in systems software. I’m currently learning C.
+- 🌱 Computer Science undergrad focused on C. 
+- 💞️ Intrigued by low-level programming and eager to delve deeper into systems software.
